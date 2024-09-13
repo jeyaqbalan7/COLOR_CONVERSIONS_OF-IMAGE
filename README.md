@@ -56,8 +56,8 @@ Save the final modified image to your local directory.
 
 
 ## Program:
-### Developed By: KOWSALYA M
-### Register Number: 212222230069
+### Developed By: Jeyabalan T
+### Register Number: 212222240040
 
 
 ## Output:
